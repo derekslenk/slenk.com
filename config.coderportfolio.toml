@@ -1,0 +1,71 @@
+baseurl = "http://www.example.com"
+title = "Slenknet"
+
+theme = "coder-portfolio"
+
+DefaultContentLanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+pygmentsUseClasses = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Yusuke Ishimi"
+    description = "Yusuke Ishimi's personal website"
+    keywords = "blog,developer,personal"
+    info = "WEB AND APPS ENGINEER"
+    avatarurl = "images/avatar.jpg"
+    footercontent = "Enter a text here."
+    fixedbarContent = "Do you want to know me more private?→"
+    fixedbarContentAfter = "Thank You! Please share it if you like it→"
+
+    hideCredits = false
+    hideCopyright = false
+
+    # Bottom sns share
+    snsShare = true
+    # Popular sns share
+    # if you want add sns. please message!
+    enableTwitterShare = true
+    enableFacebookShare = true
+    enableHatenaShare = true
+    enableLineShare = true
+    enableLinkedInShare = true
+
+    thumbnail = "images/tn.png"
+
+    # Custom CSS
+    custom_css = []
+
+    # Alignment of Mobile Menu items
+    itemscentered = true
+
+    # RTL support
+    rtl = false
+
+    langseparator = "|"
+
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    weight = 1
+    url = "https://github.com/naro143/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter"
+    weight = 2
+    url = "https://twitter.com/naro143/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    weight = 3
+    url = "https://www.linkedin.com/in/naro143/"
+[[params.social]]
+    name = "LinkedIn"
+    weight = 4
+    url = "https://www.linkedin.com/in/naro143/"

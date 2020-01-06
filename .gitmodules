@@ -3,4 +3,4 @@
 	url = git@github.com:derekslenk/hugo-coder-portfolio.git
 [submodule "themes/minimal"]
 	path = themes/minimal
-	url = https://github.com/derekslenk/minimal.git
+	url = git@github.com:derekslenk/minimal.git

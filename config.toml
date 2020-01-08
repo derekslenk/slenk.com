@@ -30,14 +30,15 @@ theme = "minimal"
     weight = 10
 
 [[menu.main]]
-    url = "https://mail.slenk.network/"
-    name = "Mailcow"
+    url = "/syncthing/"
+    name = "Syncthing Relays"
     weight = 20
 
-#[[menu.main]]
-#    url = "/post/"
-#    name = "Posts"
-#    weight = 999
+[[menu.main]]
+    url = "https://mail.slenk.network/"
+    name = "Mailcow"
+    weight = 30
+
 
 #[[menu.main]]
 #    url = "/project/"
@@ -49,7 +50,7 @@ theme = "minimal"
 # The list of available icons can be found at http://fontawesome.io/icons.
 
 [[menu.icon]]
-    url = "mailto:derek@slenk.com"
+    url = "mailto:site@slenk.com"
     name = "envelope-o"
     weight = 1
 

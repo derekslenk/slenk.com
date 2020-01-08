@@ -3,6 +3,8 @@ title: "About"
 date: 2020-01-05T21:20:55-05:00
 draft: false
 ---
+{{< figure src="/slenk-windmill-alone-orange.svg" width="150px" class="floatright" >}}
+ 
 Welkom to the Slenk Network family of services.
 
 All services are paid for and maintained by Derek Slenk.

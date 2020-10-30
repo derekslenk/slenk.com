@@ -114,3 +114,10 @@ gzip = false
 [[deployment.matchers]]
 pattern = "^.+\\.(html|xml|json)$"
 gzip = true
+
+
+theme = ["plausible-hugo"]  # Add this theme to your already existing other themes
+[params.plausible]
+  enable = true  # Whether to enable plausible tracking
+  selfhosted_domain = "analytics.slenk.com" 
+  domain = "slenk.com"  # Plausible "domain" name/id in your dashboard

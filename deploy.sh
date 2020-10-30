@@ -10,6 +10,6 @@ hugo --minify
 
 echo "Deploying to S3 and Invalidating CDN"
 
-hugo deploy --maxDeletes -1 --invalidateCDN
+hugo deploy --maxDeletes -1
 
 echo "Deployment Completed"

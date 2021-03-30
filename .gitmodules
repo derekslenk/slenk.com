@@ -1,6 +1,3 @@
 [submodule "themes/coder-portfolio"]
 	path = themes/coder-portfolio
 	url = git@github.com:derekslenk/hugo-coder-portfolio.git
-[submodule "themes/minimal"]
-	path = themes/minimal
-	url = git@github.com:derekslenk/minimal.git

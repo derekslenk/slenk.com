@@ -1,7 +1,7 @@
 ---
 title: "Syncthing"
 date: 2020-01-07T23:13:08-05:00
-updated: 2020-10-30T19:30:00-04:00
+updated: 2021-04-11T01:55:00-04:00
 draft: false
 ---
 
@@ -9,6 +9,8 @@ Two **[Syncthing](https://syncthing.net/)** **[Relay](https://docs.syncthing.net
 
 Stats in a more human-readable format can be found at **[https://relays.syncthing.net/](https://relays.syncthing.net/)**
 
-I hope to have a link to a public dashboard/stats at some point.
+There is a Signal proxy running for users whose government denies them the right to secure communication: **[F*** Iran.](https://signal.tube/#i.ran.pw)**
+
+**[Click me](https://signal.tube/#i.ran.pw)** or above to automatically set up Signal on your phone.
 
 Any questions? Click the mail icon in the top right.

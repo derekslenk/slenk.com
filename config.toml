@@ -6,7 +6,7 @@ theme = "minimal"
 #googleAnalytics = ""
 
 [params]
-    author = "Calin Tataru"
+    author = "Derek Slenk"
     description = "Personal blog theme powered by Hugo"
     githubUsername = "derekslenk"
     accent = "#f5841a"

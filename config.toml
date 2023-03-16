@@ -35,7 +35,7 @@ theme = "minimal"
     weight = 20
 
 [[menu.main]]
-    url = "https://mail.slenk.network/"
+    url = "https://mail.slenk.email/"
     name = "Mailcow"
     weight = 30
 

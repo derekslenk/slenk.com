@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2020-01-05T21:20:55-05:00
-updated: 2020-10-30T19:30:00-04:00
+updated: 2023-03-16T13:10:00-04:00
 draft: false
 ---
 {{< figure src="/slenk-windmill-alone-orange.svg" width="150px" class="floatright" >}}

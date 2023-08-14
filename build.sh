@@ -1,0 +1,1 @@
+npm exec-bin bin/hugo/hugo

@@ -1,0 +1,1 @@
+pnpm exec-bin bin/hugo/hugo

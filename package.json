@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "exec-bin": "^1.0.0",
+    "hugo-installer": "^4.0.1"
+  },
+  "scripts": {
+    "postinstall": "hugo-installer --version 0.103.0 --extended"
+  }
+}

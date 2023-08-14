@@ -78,5 +78,5 @@ theme = "minimal"
 theme = ["plausible-hugo"]  # Add this theme to your already existing other themes
 [params.plausible]
   enable = true  # Whether to enable plausible tracking
-  selfhosted_domain = "analytics.slenk.com" 
+  selfhosted_domain = "stats.slenk.com" 
   domain = "slenk.com"  # Plausible "domain" name/id in your dashboard

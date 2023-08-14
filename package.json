@@ -1,4 +1,8 @@
 {
+  "dependencies": {
+    "exec-bin": "^1.0.0",
+    "hugo-installer": "^4.0.1"
+  },
   "devDependencies": {
     "exec-bin": "^1.0.0",
     "hugo-installer": "^4.0.1"
